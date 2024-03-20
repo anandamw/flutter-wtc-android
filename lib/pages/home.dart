@@ -29,6 +29,7 @@ class HomePage extends StatelessWidget {
                     child: SvgPicture.asset('asset/icon/'),
                   ),
                   suffixIcon: IntrinsicHeight(
+                    //sampai sini
                     child: Row(
                       mainAxisAlignment: MainAxisAlignment.end,
                       children: [
